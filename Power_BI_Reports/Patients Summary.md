@@ -6,7 +6,7 @@ We first start by understanding the satisfaction of the patients and factors tha
 
 The patient's dataset highlights the patients' age, arrival and departure dates and times, the service provided and the satisfaction score.
 
-![Patients Overview](/Resources/Power%20BI%20files/Snapshots/Patients%20Overview.png)
+![Patients Overview](/Power_BI_Reports/Power%20BI%20files/Snapshots/Patients%20Overview.png)
 
 The average patient satisfaction for the duration the data was collected, was **79 %**. This metric indicates a generally positive patient perception.
 
@@ -26,20 +26,20 @@ According to the dataset, the services provided are:
 - Intensive Care Unit (ICU)
 - Surgery
 
-![Patients Satisfaction by Service Graph](/Resources/Power%20BI%20files/Snapshots/Patients%20Service.png)
+![Patients Satisfaction by Service Graph](/Power_BI_Reports/Power%20BI%20files/Snapshots/Patients%20Service.png)
 
 The data shows that Patient satisfaction is generally similar across all the services provided in the hospital (between **78 and &0**). This suggests that the services provided are not a direct area of weakness in the hospital.
 
 Patient satisfaction remains consistent across all service departments, suggesting balanced care quality.
 
 ### Patients' stay duration 
-![Patients Satisfaction by Hospital Stay](/Resources/Power%20BI%20files/Snapshots/Patients%20Stay.png)
+![Patients Satisfaction by Hospital Stay](/Power_BI_Reports/Power%20BI%20files/Snapshots/Patients%20Stay.png)
 
 The graph shows the satisfaction of the patients according to their stay length in the hospital. Again, the values are within the same range and close to the mean (**77 to 80**). The patients' stay is not a limiting factor to patient satisfaction.
 
 ### Patients' Age
 
-![Patients Satisfaction by Age Graph](/Resources/Power%20BI%20files/Snapshots/Patients%20Age.png)
+![Patients Satisfaction by Age Graph](/Power_BI_Reports/Power%20BI%20files//Snapshots/Patients%20Age.png)
 
 Patient satisfaction also remains consistent across all age groups, suggesting balanced care quality.
 
@@ -52,7 +52,7 @@ Since satisfaction remains steady across departments and age groups, the hospita
 The visualisations above did not provide direct results. We therefore created a threshold to distinguish satisfied patients from the unsatisfied.
 The threshold for determining satisfaction is **70**.
 
-![Unsatisfied Patients](/Resources/Power%20BI%20files/Snapshots/Unsatisfied%20Patients%20Overview.png)
+![Unsatisfied Patients](/Power_BI_Reports/Power%20BI%20files/Snapshots/Unsatisfied%20Patients%20Overview.png)
 
 Using this new metric, we see that **24 %** of the patients were unsatisfied. 
 
